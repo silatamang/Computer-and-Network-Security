@@ -1,8 +1,8 @@
 # Computer-and-Network-Security
 Last semester, I took Computer and Network Security class where for the final project, I along with my team members search on Ransomware. The documentation of the whole process is attached in the pdf file. The documentation covrs the following sections: 
-Section 1: Introduction	2
-Section 2: History and Evolution of Ransomware	2
-Section 2.1: List of Famous Ransomware	5
+  Section 1: Introduction	2
+  Section 2: History and Evolution of Ransomware	2
+  Section 2.1: List of Famous Ransomware	5
 Section 3: Methods of Infection	7
 Section 4: Methods of Detection	7
 Behavioral analysis detection	8

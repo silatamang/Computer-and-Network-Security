@@ -1,5 +1,5 @@
 # Computer-and-Network-Security
-Last semester, I took Computer and Network Security class where for the final project, I along with my team members search on Ransomware. The documentation of the whole process is attached in the pdf file. The documentation covrs the following sections: 
+The research is on Ransomware. The documentation of the whole process is attached in the pdf file. The documentation covers the following sections: 
 Section 1: Introduction	2
 Section 2: History and Evolution of Ransomware	2
 Section 2.1: List of Famous Ransomware	5
